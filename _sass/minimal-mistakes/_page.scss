@@ -106,6 +106,10 @@ body {
 		}
 	}
 
+  strong{    
+    color: 	#DAA520;
+  }
+
   p,
   li,
   dl {
@@ -139,6 +143,7 @@ body {
     padding-top: 0.1rem;
     padding-bottom: 0.1rem;
     font-size: 0.8em;
+    color: #F7E600;
     background: $code-background-color;
     border-radius: $border-radius;
 
