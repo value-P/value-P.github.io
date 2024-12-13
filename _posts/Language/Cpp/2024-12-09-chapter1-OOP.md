@@ -1,5 +1,5 @@
 ---
-title: "Chapter01. 객체지향"
+title: "항목01. 객체지향"
 categories: 
     - Cpp
 tags: [Cpp]
